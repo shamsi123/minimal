@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Project1
 
-TFraud Detection
+Fraud Detection
 
 ## Project2
 
